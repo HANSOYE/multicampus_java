@@ -2,4 +2,5 @@
 java 수업한 그날 그날의 내용을 push하는 repository이다.
 
 day01\
-day02
+day02\
+day03
