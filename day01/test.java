@@ -1,0 +1,20 @@
+public class test
+{
+	public static void main(String[] args)
+	{
+		System.out.println("--------------");
+		System.out.println("1"+"2");
+		System.out.println(true+ "");
+		System.out.println('A' + 'B'); //char + char는 int가 된다 65+66 = 131이 된다
+		
+		System.out.println('1'+2); //char + int => int 됨 =>49+2=51
+		
+		System.out.println('1'+'2');
+		
+		System.out.println('J'+"ava"); //char + String => string
+		
+		System.out.println(true+"null"); //boolean + String => result = truenull
+
+	}
+}
+
